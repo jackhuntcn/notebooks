@@ -18,4 +18,9 @@
 - 数据集：jiaozi-vs-tangyuan_dataset.tar.gz
 - 爬虫脚本：baidu_thumb_picture_crawler.py
 
+## LSTM 诗歌生成器
+
+- LSTM-Poetry.ipynb
+- 数据集: poetry.txt
+
 #### 待续 ...
