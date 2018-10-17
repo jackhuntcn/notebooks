@@ -28,4 +28,7 @@
 - autoencoder_and_clustering.ipynb
 - 图片下载链接: logos.txt
 
+## 深度残差网络重构图片
+- cele-edges-mae.nbconvert.ipynb
+
 #### 待续 ...
